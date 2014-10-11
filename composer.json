@@ -1,0 +1,26 @@
+{
+    "name": "ivanhalen/pagination",
+    "description": "An alternative Laravel pagination",
+    "keywords": ["laravel","pagination"],
+    "license": "MIT",
+    "homepage": "http://github.com/ivanhalen/pagination",
+    "authors": [
+        {
+            "name": "ivanhalen",
+            "email": "ivan.sammartino@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Ivanhalen\\Pagination\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
