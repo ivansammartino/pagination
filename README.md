@@ -1,9 +1,10 @@
 #Laravel 4 Alternative Pagination
-___
 
 An alternative pagination for Laravel 4 built on top of existing Bootstrap one. The idea came from "Pages List Limited" server behavior, a subset of [Tom Muck's Recordset Navigation Suite](http://www.tom-muck.com/extensions/help/RecordsetNavigationSuite/) for Adobe Dreamweaver that I used a lot in my old procedural days :-)
 
 More, an infinite scroll based on [jQuery Waypoints](http://imakewebthings.com/jquery-waypoints/) is implemented as well.
+
+This is my first Laravel package, and the first time I use GitHub as publisher: you know, there's always a "first time" for everything! :-)
 
 ##Installation
 
